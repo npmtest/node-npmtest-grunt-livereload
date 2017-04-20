@@ -1,0 +1,25 @@
+<svg height="350" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="350" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">2 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ grunt-livereload@0.1.3 </tspan>
+<tspan x="10" y="90">  ├── debug@0.7.4 </tspan>
+<tspan x="10" y="106">  ├─┬ gaze@0.3.4 </tspan>
+<tspan x="10" y="122">  │ ├─┬ fileset@0.1.8 </tspan>
+<tspan x="10" y="138">  │ │ └─┬ glob@3.2.11 </tspan>
+<tspan x="10" y="154">  │ │   ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="170">  │ │   └── minimatch@0.3.0 </tspan>
+<tspan x="10" y="186">  │ └─┬ minimatch@0.2.14 </tspan>
+<tspan x="10" y="202">  │   ├── lru-cache@2.7.3 </tspan>
+<tspan x="10" y="218">  │   └── sigmund@1.0.1 </tspan>
+<tspan x="10" y="234">  └─┬ livereload-server@0.2.3 </tspan>
+<tspan x="10" y="250">    ├── livereload-protocol@0.2.2 </tspan>
+<tspan x="10" y="266">    └─┬ websocket.io@0.2.1 </tspan>
+<tspan x="10" y="282">      └─┬ ws@0.4.20 </tspan>
+<tspan x="10" y="298">        ├── commander@0.6.1 </tspan>
+<tspan x="10" y="314">        ├── options@0.0.6 </tspan>
+<tspan x="10" y="330">        └── tinycolor@0.0.1</tspan>
+</text>
+</svg>
