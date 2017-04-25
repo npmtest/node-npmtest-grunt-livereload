@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-livereload/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-livereload/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-livereload/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-livereload/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-livereload/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-livereload/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-grunt-livereload/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-grunt-livereload/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-livereload/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-livereload/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-grunt-livereload/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-livereload/build/coverage.html/index.html)
 
